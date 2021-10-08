@@ -1,0 +1,10 @@
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\김서지\계명대\과제\3-2\실감응용데이터베이스프로그래밍\DBProgramming\SubProjects\StudentManagement\obj\Debug\StudentManagement.pdb
